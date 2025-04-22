@@ -1,6 +1,7 @@
 # sales-forecasting-model
 A data analysis project using the store5.csv dataset to evaluate the contribution of product categories to total sales. This notebook includes statistical analysis, visualizations, sales autocorrelation, and a prediction model using linear regression. Suitable for exploratory data analysis and foundational sales modeling.
-Installation ⚙️
+
+# Installation ⚙️
 Download the latest changes on main.py or main.ipynb
 
 Navigate to the folder you downloaded the release on
